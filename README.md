@@ -4,7 +4,7 @@ Codigos de la materia de RTOS 3MM6
 ## Integrantes del equipo
 
 - **Julio Cesar Núñez Quiñones**
-- **Cesar Eduardo Montiel**
+
 
 ## Indicaciones
 
