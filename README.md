@@ -14,3 +14,6 @@ Codigos de la materia de RTOS 3MM6
 - Los reportes no se integran a este repositorio, los reportes se deberán enviar por Microsoft Teams.
 - El repositorio puede ser privado, solamente hay que dar acceso al docente. 
 - El repositorio deberá estar actualizado confirme a los días programados para revisión dentro de classroom.
+
+## La carpeta de secodara de filamentos es la referente a la del proyecto
+
